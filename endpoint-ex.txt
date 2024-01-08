@@ -1,0 +1,5 @@
+### EX
+
+http://localhost:8000/createTrackingUrl/https%3A%2F%2Fbun.sh%2F
+
+http://localhost:8000/trcul/$bun.sh/
