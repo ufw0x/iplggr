@@ -2,10 +2,6 @@
   "name": "iplggr_sv",
   "module": "index.ts",
   "type": "module",
-  "scripts": {
-    "start": "bun ./index.ts",
-    "dev": "bun nodemon ./index.ts"
-  },
   "devDependencies": {
     "@types/bun": "latest",
     "@types/cors": "^2.8.17",
